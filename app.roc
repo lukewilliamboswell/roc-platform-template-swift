@@ -1,4 +1,4 @@
 # example application
 app [main] { pf: platform "platform/main.roc" }
 
-main = "Roc ❤️ Swift"
+main = "Roc loves Swift\n"
